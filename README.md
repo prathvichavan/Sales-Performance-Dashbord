@@ -45,8 +45,6 @@ The Sales Performance Dashboard is designed to help stakeholders visualize and a
 - Category
 - Month
 
-(The dataset is not included due to confidentiality)
-
 ---
 
 ## ⚙ How to Run This Project
